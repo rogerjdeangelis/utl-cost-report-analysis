@@ -4,7 +4,12 @@ Cost report analysis
                                                                                                                                                                   
     Cost Report and Cost Report Analysis Repositories are still under                                                                                             
     development. The draft makefile and driver for this repository are                                                                                            
-    almost complete.                                                                                                                                              
+    almost complete.  
+    
+    There are two ways to populate the schema.
+          1. You can download and unzip the schema (~15gb)
+          2. You can run cos_000makefile.sas and then cos_005driver.sas.
+             This will create the same data as is in the download.
                                                                                                                                                                   
     Cost Report Analysis                                                                                                                                          
     https://github.com/rogerjdeangelis/utl-cost-report-analysis                                                                                                   
@@ -30,14 +35,15 @@ Cost report analysis
                                                                                                                                                                   
     Skilled Nursing Facilities (2011-2019)                                                                                                                        
                                                                                                                                                                   
-    You need to download the SAS schema manually from Dropbox, Google Drive or MS OndDrive.                                                                       
+    You need to download or run the makefile and driver to create the SAS schema.  
+    
     None of these sites support lights out programable downloading.                                                                                               
                                                                                                                                                                   
     Unfortunately you need an account on one of these sites.                                                                                                      
                                                                                                                                                                   
     Github does not support large files.                                                                                                                          
                                                                                                                                                                   
-    You will have to manually  download 'cos.exe and run the selfextrating schema.                                                                                
+    You will have to manually  download 'cos.exe and run the self extrating zip.                                                                                
                                                                                                                                                                   
     Note self extracting unziped SAS schema is about 15gb                                                                                                         
                                                                                                                                                                   
@@ -50,7 +56,7 @@ Cost report analysis
     MS OneDrive                                                                                                                                                   
     https://1drv.ms/u/s!AoqaX8I7j_icglMn-H01psG-mPQf?e=u4MkB3                                                                                                     
                                                                                                                                                                   
-                                                                                                                                                                  
+    SCHEMA                                                                                                                                                              
                                                                                                                                                                   
     #  Name              File Size    Label                                                                                                                       
                                                                                                                                                                   
