@@ -58,7 +58,7 @@ Cost report analysis
                                                                                                                                                                   
     SCHEMA                                                                                                                                                              
                                                                                                                                                                   
-    #  Name              File Size    Label                                                                                                                       
+    #  Table Name        File Size    Label                                                                                                                       
                                                                                                                                                                   
     1  ADR_ADDRESS            25MB    2011-Current unzipped report csvs from https://downloads.cms.gov/files/hcris/snf19fy####                                    
     2  CEL_CELLVALUE          10GB    2011-Current alpha & numeric csvs csvs unzipped from https://downloads.cms.gov/files/hcris/snf19fy####                      
