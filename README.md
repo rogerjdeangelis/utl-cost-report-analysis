@@ -7,9 +7,10 @@ Cost report analysis
     almost complete.  
     
     There are two ways to populate the schema.
-          1. You can download and unzip the schema (~15gb)
+          1. You can download and unzip the schema (~10gb)
           2. You can run cos_000makefile.sas and then cos_005driver.sas.
              This will create the same data as is in the download.
+             Note you can test the code by running each mocaro in the makefile
                                                                                                                                                                   
     Cost Report Analysis                                                                                                                                          
     https://github.com/rogerjdeangelis/utl-cost-report-analysis                                                                                                   
@@ -37,24 +38,17 @@ Cost report analysis
                                                                                                                                                                   
     You need to download or run the makefile and driver to create the SAS schema.  
     
-    None of these sites support lights out programable downloading.                                                                                               
+    None of these sites support lights out programmable downloading.                                                                                               
+                                                                                                                                                                
+    Github only supports tiny file files.                                                                                                                          
                                                                                                                                                                   
-    Unfortunately you need an account on one of these sites.                                                                                                      
+    You will have to manually  download 'cos.exe and run the self extracting zip.                                                                                
                                                                                                                                                                   
-    Github does not support large files.                                                                                                                          
-                                                                                                                                                                  
-    You will have to manually  download 'cos.exe and run the self extrating zip.                                                                                
-                                                                                                                                                                  
-    Note self extracting unziped SAS schema is about 15gb                                                                                                         
-                                                                                                                                                                  
-    Dropbox                                                                                                                                                       
-    https://www.dropbox.com/s/x068gdpm6uygwe5/cos.exe?dl=0                                                                                                        
-                                                                                                                                                                  
-    Google Drive                                                                                                                                                  
-    https://drive.google.com/file/d/1WWVK_8bm9lBFvFN54D46S6GUkT17X_BM/view?usp=sharing                                                                            
-                                                                                                                                                                  
-    MS OneDrive                                                                                                                                                   
-    https://1drv.ms/u/s!AoqaX8I7j_icglMn-H01psG-mPQf?e=u4MkB3                                                                                                     
+    Note self extracting unziped SAS schema is about 10gb                                                                                                         
+                                                                           
+    Google Drive   
+    https://tinyurl.com/y4pqrj6d                                                       
+    https://drive.google.com/file/d/1u4ZG9Lv87vXh699i_PAEK0Sgl9chb7-N/view?usp=sharing                                                                                           
                                                                                                                                                                   
     SCHEMA                                                                                                                                                              
                                                                                                                                                                   
