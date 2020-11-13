@@ -1,6 +1,8 @@
 # utl-cost-report-analysis
 Cost report analysis
-    Cost report analysis                                                                                                                                          
+    Cost report analysis  
+    
+    The Skilled Nursing Data has been updated to contain data as of 11/12/2020
                                                                                                                                                                   
     Cost Report and Cost Report Analysis Repositories are still under                                                                                             
     development. The draft makefile and driver for this repository are                                                                                            
