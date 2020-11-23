@@ -18,7 +18,11 @@ Cost report analysis
     https://github.com/rogerjdeangelis/utl-cost-report-analysis                                                                                                   
                                                                                                                                                                   
     Cost Reports (related)                                                                                                                                        
-    https://github.com/rogerjdeangelis/CostReports                                                                                                                
+    https://github.com/rogerjdeangelis/CostReports   
+    
+    GitHub
+    https://tinyurl.com/y4ebnthm
+    https://github.com/rogerjdeangelis/utl-skilled-nursing-cost-reports-2011-2019-in-excel
                                                                                                                                                                   
     Documentation                                                                                                                                                 
     https://tinyurl.com/yc5mbn7g                                                                                                                                  
