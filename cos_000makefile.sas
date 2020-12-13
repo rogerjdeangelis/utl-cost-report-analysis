@@ -313,8 +313,8 @@ ZIP_DEMOGRAPHICS      115MB    SAS Census ZCTA level Demographics over 200 colum
 
   data _null_;
 
-      newdir=dcreate('cos',"&gbl_root:/");
-      newdir=dcreate('oto',"&gbl_root:/cos");   * autocall folder;
+      newdir=dcreate('cos',"%trim(gbl_root)");
+      newdir=dcreate('oto',"%trim(&gbl_root)/cos");   * autocall folder;
 
   run;quit;
 
